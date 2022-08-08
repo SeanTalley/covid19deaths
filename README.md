@@ -1,2 +1,2 @@
-# covid19deaths
-A 3d map of Covid19 deaths in the U.S.
+# 3D Map of Covid 19 Deaths in the U.S.
+Demo: https://www.youtube.com/watch?v=Ytg8onMecgU
