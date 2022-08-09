@@ -9,4 +9,4 @@ It takes a bit to render the map so give it a few.
 
 You can resize the view window by dragging the corner and then clicking the maximize button.
 
-![Example](926.png)
+![Example](097.png)
