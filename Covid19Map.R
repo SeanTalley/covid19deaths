@@ -5,9 +5,9 @@ library(RColorBrewer)
 library(stringr)
 library(stringi)
 library(scales)
-library(rayshader)
+library(this.path)
 
-current_path <- getActiveDocumentContext()$path 
+current_path <- this.path()
 setwd(dirname(current_path))
 
 usa.dat <- read.csv("cd1.csv", header = T)
